@@ -3,7 +3,7 @@
 	"author": "ashiqfury",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "http://ashiqfury/github.io/react-api-crypto-tracker",
+	"homepage": "http://ashiqfury/github.io/react-crypto-tracker",
 	"dependencies": {
 		"@testing-library/jest-dom": "^5.14.1",
 		"@testing-library/react": "^11.2.7",
